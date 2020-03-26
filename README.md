@@ -9,3 +9,5 @@
 4. `cd frontend && npm run serve`
 
 5. `python manage.py runserver 0.0.0.0:8000`
+
+6. `access to http://127.0.0.1/8000`
